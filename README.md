@@ -1,6 +1,6 @@
-# Woof - Real-Time Scam Detection App
+# Walley - Real-Time Budget APP made to integrate with GX Bank
 
-Mobile application for real-time scam detection during phone calls and via SMS. The app captures audio via acoustic coupling (speakerphone), transcribes it using AssemblyAI, and analyzes the conversation context using JamAI Base to flag potential fraud.
+Mobile application for real-time budgeting. The app captures unread inbox from emails or sms via a real-time scrape, send it to our JAM AI base backend to check for any personal transaction biling to be aded to daily budgeting. There is an AI layer , behind the APP to capture any potential fraud activity as well
 ---
 ## Team
 1. LOO JIUN WEI
